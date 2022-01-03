@@ -1,0 +1,331 @@
+﻿Kalimat;Kelas
+Tampilkan kartu hasil studi untuk semester 1;ID 
+Tampilkan kartu hasil studi untuk semester 2;ID 
+Tampilkan kartu hasil studi untuk semester 3;ID 
+Tampilkan kartu hasil studi untuk semester 4;ID 
+Tampilkan kartu hasil studi untuk semester 5;ID 
+Tampilkan kartu hasil studi untuk semester 6;ID 
+Tampilkan kartu hasil studi untuk semester 7;ID 
+Tampilkan kartu hasil studi untuk semester 8;ID 
+Tampilkan jumlah sks pada semester 1;ID 
+Tampilkan jumlah sks pada semester 2;ID 
+Tampilkan jumlah sks pada semester 3;ID 
+Tampilkan jumlah sks pada semester 4;ID 
+Tampilkan jumlah sks pada semester 5;ID 
+Tampilkan jumlah sks pada semester 6;ID 
+Tampilkan jumlah sks pada semester 7;ID 
+Tampilkan jumlah sks pada semester 8;ID 
+Tampilkan ipk pada semester 1;ID 
+Tampilkan ipk pada semester 2;ID 
+Tampilkan ipk pada semester 3;ID 
+Tampilkan ipk pada semester 4;ID 
+Tampilkan ipk pada semester 5;ID 
+Tampilkan ipk pada semester 6;ID 
+Tampilkan ipk pada semester 7;ID 
+Tampilkan ipk pada semester 8;ID 
+Tampilkan ip pada semester 1;ID 
+Tampilkan ip pada semester 2;ID 
+Tampilkan ip pada semester 3;ID 
+Tampilkan ip pada semester 4;ID 
+Tampilkan ip pada semester 5;ID 
+Tampilkan ip pada semester 6;ID 
+Tampilkan ip pada semester 7;ID 
+Tampilkan ip pada semester 8;ID 
+Tampilkan semester pendek pada semester 2;ID 
+Tampilkan semester pendek pada semester 4;ID 
+Tampilkan semester pendek pada semester 6;ID 
+Tampilkan semester pendek pada semester 8;ID 
+Tampilkan kartu rencana studi pada semester ini;ID 
+Tampilkan krs pada semester ini;ID 
+Tampilkan jumlah sks yang diambil pada semester ini;ID 
+Tampilkan banyak sks yang diambil pada semester ini;ID 
+Tampilkan batas sks maksimum yang boleh diambil pada semester ini;ID 
+Tampilkan jumlah sks maksimum yang boleh diambil pada semester ini;ID 
+Tampilkan banyak sks maksimum yang boleh diambil pada semester ini;ID 
+Tampilkan jadwal mata kuliah kalkulus;ID 
+Tampilkan jadwal mata kuliah algoritma pemrograman 1;ID 
+Tampilkan jadwal mata kuliah algoritma pemrograman 2;ID 
+Tampilkan jadwal mata kuliah struktur data 1;ID 
+Tampilkan jadwal mata kuliah struktur data 2;ID 
+Tampilkan nama dosen yang mengampu mata kuliah kalkulus;ID 
+Tampilkan nama dosen yang mengampu mata kuliah algoritma pemrograman 1;ID 
+Tampilkan nama dosen yang mengampu mata kuliah algoritma pemrograman 2;ID 
+Tampilkan nama dosen yang mengampu mata kuliah struktur data 1;ID 
+Tampilkan nama dosen yang mengampu mata kuliah struktur data 2;ID 
+Tampilkan ruangan mata kuliah kalkulus;ID 
+Tampilkan ruangan mata kuliah algoritma pemrograman 1;ID 
+Tampilkan ruangan mata kuliah algoritma pemrograman 2;ID 
+Tampilkan ruangan mata kuliah struktur data 1;ID 
+Tampilkan ruangan mata kuliah struktur data 2;ID 
+Tampilkan sks pada mata kuliah kalkulus;ID 
+Tampilkan sks pada mata kuliah algoritma pemrograman 1;ID 
+Tampilkan sks pada mata kuliah algoritma pemrograman 2;ID 
+Tampilkan sks pada mata kuliah struktur data 1;ID 
+Tampilkan sks pada mata kuliah struktur data 2;ID 
+Tampilkan kode mata kuliah kalkulus;ID 
+Tampilkan kode mata kuliah algoritma pemrograman 1;ID 
+Tampilkan kode mata kuliah algoritma pemrograman 2;ID 
+Tampilkan kode mata kuliah struktur data 1;ID 
+Tampilkan kode mata kuliah struktur data 2;ID 
+Tampilkan mata kuliah apa saja yang dapat diambil pada semester ini;ID 
+Tampilkan mata kuliah apa saja yang bisa diambil pada semester ini;ID 
+Tampilkan mata kuliah apa saja yang dapat diambil pada semester pendek;ID 
+Tampilkan mata kuliah apa saja yang bisa diambil pada semester pendek;ID 
+Tampilkan batas maksimum yang boleh diambil pada semester pendek;ID 
+Tampilkan jumlah maksimum yang boleh diambil pada semester pendek;ID 
+Tampilkan banyak maksimum yang boleh diambil pada semester pendek;ID 
+Tampilkan jumlah sks yang diambil pada semster pendek;ID 
+Tampilkan banyak sks yang diambil pada semster pendek;ID 
+Tampilkan kartu rencana studi semester pendek;ID 
+Tampilkan krs semester pendek;ID 
+Tampilkan nama dosen pembimbing akademik;ID 
+Tampilkan nama dosen PA;ID 
+Tampilkan semester saat ini;ID 
+Tampilkan semester yang sedang dijalani saat ini;ID 
+Tampilkan NIM;ID 
+Tampilkan nomor induk mahasiswa;ID 
+Tampilkan NIP dosen pembimbing akademik;ID 
+Tampilkan nomor induk pegawai dosen pembimbing akademik;ID 
+Tampilkan NIP dosen PA;ID 
+Tampilkan nomor induk pegawai dosen PA;ID 
+Tampilkan nama pribadi sesuai yang tercantum pada akademik;ID 
+Tampilkan nama pribadi sesuai yang tertera pada akademik;ID 
+Tampilkan program studi;ID 
+Tampilkan prodi;ID 
+Tampilkan batas akhir pengisian KRS;ID 
+Tampilkan tanggal tenggat pengisian KRS;ID 
+Tampilkan tanggal mulai pengisian KRS;ID 
+Tampilkan awal pengisian KRS;ID 
+Tampilkan batas akhir pengisian KPRS;ID 
+Tampilkan tanggal tenggat pengisian KPRS;ID 
+Tampilkan tanggal mulai pengisian KPRS;ID 
+Tampilkan awal pengisian KPRS;ID 
+Tampilkan transkip nilai;ID 
+Tampilkan rekap nilai;ID 
+Tampilkan total sks yang sedang ditempuh;ID 
+Tampilkan keseluruhan sks yang sedang ditempuh;ID 
+Tampilkan total sks yang sudah ditempuh;ID 
+Tampilkan keseluruhan sks yang sudah ditempuh;ID 
+Tampilkan ipk;ID 
+Tampilkan index prestasi kumulatif;ID 
+Tampilkan jumlah mutu;ID 
+Tampilkan banyak mutu;ID 
+Tampilkan history mata kuliah kalkulus;ID 
+Tampilkan history mata kuliah algoritma pemrogramman 1;ID 
+Tampilkan history mata kuliah algoritma pemrogramman 2;ID 
+Tampilkan history mata kuliah struktur diskrit 1;ID 
+Tampilkan history mata kuliah struktur diskrit 2;ID 
+Tampilkan mata kuliah apa saja yang mengulang;ID 
+Tampilkan daftar mata kuliah apa saja yang mengulang;ID 
+Tampilkan mata kuliah dengan nilai A;ID 
+Tampilkan mata kuliah dengan nilai B;ID 
+Tampilkan mata kuliah dengan nilai C;ID 
+Tampilkan mata kuliah dengan nilai D;ID 
+Tampilkan mata kuliah dengan nilai E;ID 
+Tampilkan history suliet;ID 
+Tampilkan history usept;ID 
+Tampilkan tanggal test suliet;ID 
+Tampilkan tanggal test usept;ID 
+Tampilkan hasil test suliet;ID 
+Tampilkan hasil test usept;ID 
+Bagaimana cara menajemen waktu antara kuliah dan organisasi? ;OOD
+Siapa aktor termahal sekarang?;OOD
+Saya lebih suka dirinya yang memakai hijab;OOD
+Buku yang berjudul Daun yang Jatuh Tak Pernah Membeci Angin ditulis oleh?;OOD
+Siapakah orang yang mampu menerima trust issue Annisa Fitri ?;OOD
+Berapa harga martabak varian spesial?;OOD
+Siapa Nama Dekan Fakultas Ilmu Komputer Universitas Sriwijaya?;OOD
+Mengapa bintang laut berada di laut?;OOD
+Buku yang berjudul Tentang Kamu ditulis oleh?;OOD
+Kapan Pemerintah Kota Bandung Didirikan?;OOD
+Mengapa lampu lalu lintas untuk berhenti berwarna merah?;OOD
+Bagaimana cara menentukan waktu belajar yang baik;OOD
+Rekomendasi channel YouTube yang dibutuhkan oleh mahasiswa?;OOD
+Siapa pencetus abjad?;OOD
+Siapa penemu perangkat lunak?;OOD
+Apa yang membuat Tere Liye sukses?;OOD
+nama dekan fasilkom;OOD
+Berapa nilai suliet mahasiswa dengan nim xxx?;OOD
+Dimana fakultas mipa unsri ;OOD
+Siapakah yang membawa kucing menyebrangi pulau ?;OOD
+Bagaimana cara mengubah warna font di web?;OOD
+Bagaimana cara mendapatkan jodoh? hihihi ;OOD
+Dimana negara dengan penduduk paling sedikit?;OOD
+Mengapa ikan hidup di air?;OOD
+Kapan Universitas Sriwijaya didirikan?;OOD
+Saat sudah lulus, kamu akan lamar kerja diperusahaan mana?;OOD
+Apa saja fasilitas di unsri? ;OOD
+Apakah 2 orang yang bertemu dalam satu organisasi diperbolehkan menikah ?;OOD
+Siapa Nama Dekan Fakultas Hukum Universitas Sriwijaya?;OOD
+Berapa Ipk anda?;OOD
+Siapa aktor korea yang kamu suka?;OOD
+Bagaimana cara mengupload jurnal?  ;OOD
+Siapa penulis buku Bumi?;OOD
+Siapa penulis buku yang berjudul Rindu?;OOD
+Siapa Nama Dekan Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Sriwijaya?;OOD
+Bagaimana caranya agar orang yang dekat dengan kita memberikan kita kepastian ?;OOD
+Apakah mahasiswa dengan nim xxx memiliki kesempatan lulus dengan pujian?;OOD
+Bagaimana cara menabung dengan konsisten?;OOD
+Siapa penemu bola lampu?;OOD
+Tolong cari pedagang martabak dengan harga jual termurah;OOD
+Berapa kali manusia harus minum dalam satu hari;OOD
+Darimana bayi lahir ?;OOD
+Bagaimana agar IPK 4,00?;OOD
+Siapa nama fisikawan teoretis kelahiran Jerman?;OOD
+Siapa penulis buku 1984?;OOD
+Mengapa universitas menerapkan sistem SKS?;OOD
+Temukan lokasi pedagang martabak terdekat;OOD
+Apa itu belajar ?;OOD
+Apa saja kegiatan mahasiswa yang didukung oleh pihak universitas diluar akademik?;OOD
+Siapa Nama Dekan Fakultas Keguruan Ilmu Pendidikan Universitas Sriwijaya?;OOD
+Siapakah penemu aplikasi chatbot pertama di dunia?;OOD
+Siapa Nama Wakil Direktur Utama 2019/2020?;OOD
+Buku yang berjudul Bulan adalah karya?;OOD
+Siapa Nama Dekan Fakultas Kesehatan Masyarakat Universitas Sriwijaya?;OOD
+"Apa arti kata ""I Love You"" dalam bahasa Indonesia?";OOD
+Saya lebih bagus cari kerja atau mulai usaha?;OOD
+Bagaimana cara meminjam buku di Perpus unsri? ;OOD
+temukan lokasi fasilkom;OOD
+Siapa  kepala program studi ilmu keperawatan unsri yang pertama? ;OOD
+Buku yang berjudul Hujan adalah karya?;OOD
+Beasiswa apa saja yang ada di UNSRI?;OOD
+Tolong temukan lokasi unsri;OOD
+Aku cantik ga?;OOD
+Berapa luas unsri? ;OOD
+Siapa penemu bola lampu?;OOD
+Siapa Nama Dekan Fakultas Kedokteran Universitas Sriwijaya?;OOD
+Dimana letak bumi ?;OOD
+Bagaimana agar nilai tidak turun?;OOD
+bagaimana cara bersyukur?;OOD
+Bagaimana cara membuat kartu anggota perpustakaan? ;OOD
+Apakah letak gedung FMIPA Unsri Indralaya dekat dengan gedung  FP?;OOD
+Siapa penjaga perpustakaan fasilkom?;OOD
+Siapa perempuan paling cantik di alam barzah ?;OOD
+Dari mana asal Virus Corona?;OOD
+Siapa Nama Mahasiswa Berprestasi 2019?;OOD
+"Siapa yang disebut sebagai ""bapak astronomi observasional""?";OOD
+Kapan disahkannya gelar administrasi negara menjadi administrasi publik di UNSRI?;OOD
+Tolong temukan jodoh saya;OOD
+Apakah saya merupakan robot?;OOD
+Apa saja judul puisi karya Supardi  Djoko Damono?;OOD
+Mengapa Indonesia masih menjadi negara berkembang ? ;OOD
+Dimana teori hujan ditemukan pertama kali ? ;OOD
+Bulan berapa UNSRI didirikan?;OOD
+Siapa nama rektor unsri saat ini ?;OOD
+Siapa penulis buku Kamu Gak Sendiri?;OOD
+Buku yang berjudul Rembulan Tenggelam di Wajah mu adalah karya?;OOD
+Siapa nama president RI yang ke-4;OOD
+Tahun berapa fasilkom unsri berdiri ?;OOD
+Berapa luas kampus unsri;OOD
+Kapan Tere Liye menerbitkan buku lagi?;OOD
+Siapa nama penemu awan ? ;OOD
+Bagaimana kondisi kampus anda?;OOD
+Bagaimana cara tidur cepat;OOD
+Berapa banyak organisasi mahasiswa yang ada di UNSRI?;OOD
+Youtuber no 1 di Indonesia? ;OOD
+Berapa IPK tertinggi lulusan tahun 2021 di UNSRI?;OOD
+Mengapa harus belajar pemrograman?;OOD
+Siapa penulis buku dengan judul Paradigma?;OOD
+Siapakah kucing yang paling menyebalkan dalam student center ?;OOD
+Apakah hujan dapat menyebabkan banjir?;OOD
+Apa saja judul buku yang ditulis oleh Syahid Muhammad?;OOD
+Bagaimana cara memperbaiki tabel berantakan?;OOD
+Siapa penulis buku Saddha?;OOD
+Buku yang berjudul Pergi adalah karya?;OOD
+kapan fasilkom didirikan?;OOD
+Rekomendasi situs web yang wajib diketahui oleh mahasiswa?;OOD
+Siapa penulis buku Rehat Dulu?;OOD
+Apa visi misi unsri?;OOD
+Siapa Nama Rektor Universitas Sriwijaya?;OOD
+Jurusan S2 yang sesuai dengan passion dan skill desain;OOD
+Siapa penulis buku Duduk Dulu?;OOD
+Kapan waktu yang tepat untuk tidur ?;OOD
+Dimana letak ruangan laboratorium data science di Fakultas ilmu komputer unsri?;OOD
+Apakah jadwal mahasiswa dengan nim xxx hari ini?;OOD
+Dia adalah seorang dokter gigi;OOD
+drama korea apa yang bagus ditonton saat ini?;OOD
+Dimana saja letak kampus unsri? ;OOD
+Siapakah orang yang pertama kali mendarat di pluto ?;OOD
+Kapan konser BTS tahun 2021 dilaksanakan?;OOD
+Siapa pendiri unsri? ;OOD
+Bagaimana cara agar kita tidak malas belajar?;OOD
+Apakah novel Tere Liye termasuk karya sastra?;OOD
+Siapa penulis puisi Aku Berada Kembali?;OOD
+Bagaimana cara menurunkan berat badan yang sehat?;OOD
+Mengapa Ilmu Komputer harus lulus suliet 500?;OOD
+Jelaskan tentang laut mati ? ;OOD
+Mengapa kampus memberlakukan skripsi?;OOD
+Apa yang harus dipersiapkan untuk melanjutkan pendidikan ke perguruan tinggi?;OOD
+Siapa penulis buku Kata?;OOD
+Kira kira kalau saya lanjut S2 jurusan apa yang cocok untuk saya;OOD
+Kapan Indonesia Merdeka?;OOD
+Tahun berapa UNSRI didirikan?;OOD
+Berapa fakultas di unsri? ;OOD
+Siapa Nama Dekan Fakultas Ilmu Sosial dan Politik Universitas Sriwijaya?;OOD
+Siapa Nama Dekan Fakultas Teknik Universitas Sriwijaya?;OOD
+Bagaimana cara menjadi Design Web yang profesional?;OOD
+Apa saja aturan yang mengikat puisi lama?;OOD
+Bagaimana kriteria mahasiswa yang baik?  ;OOD
+Asal usul batik menjadi kebanggaan di Indonesia?;OOD
+Siapa istri Adam Smith?;OOD
+Apa peran orang tua dalam mendukung pendidikan anak?;OOD
+Apa saja warna-warna primer?;OOD
+Data untuk apa;OOD
+Sebutka lagu yang populer pada tahun 2021?;OOD
+Berapa kurun waktu tercepat proses move on setelah ditinggalkan pasca hubungan tanpa status ?;OOD
+Mengapa langit berwarna biru?;OOD
+Siapa pencipta lagu Hari Merdeka?;OOD
+Berapa banyak penjual martabak di indralaya?;OOD
+Jika febyk sedang marah, Annisa sedang merajuk. Siapakah yang cantik ?;OOD
+Apa saja varian martabak spesial yang tersedia?;OOD
+Apakah skill pemrograman itu penting?;OOD
+Siapa rektor unsri saat ini ;OOD
+Apa yang membuat laptop mudah panas?;OOD
+Dimana Suna Alkayuni Aresta Lahir?;OOD
+Bagaimana cara mendownload jurnal secara gratis? ;OOD
+Berapa uang yang diperlukan untuk membeli sebuah komputer bekas;OOD
+Kenapa huruf b itu di antara a dan c;OOD
+Apa si keuntungan chatbot ini;OOD
+Berapa harga buku Pemrograman Web?;OOD
+Siapa penulis buku Egosentris?;OOD
+Siapa Nama Dekan Fakultas Ekonomi Universitas Sriwijaya?;OOD
+Siapa nama kucing peliharaan Anda ?;OOD
+Salah satu merk sepatu ternama;OOD
+Siapa penulis buku Atomic Habit?;OOD
+Bagaimana cara mengumpulkan tugas pada website elarning unsri?;OOD
+Siapa penulis buku Kala?;OOD
+Bagaimana cara membuat surat resmi?;OOD
+Siapa penulis buku Jika Kita Tak Pernah Jadi Apa-Apa?;OOD
+Siapa pemilik perusahaan terbesar di Indonesia?;OOD
+Siapa penulis buku Geez and Ann?;OOD
+Tanggal berapa UNSRI didirikan?;OOD
+Apakah direktur utama UKM U-READ periode 2019/2020 akan meminta maaf kepada sekretaris umum periode 2019/2020 ?;OOD
+Siapa Nama Dekan Fakultas Pertanian Universitas Sriwijaya?;OOD
+Siapa penulis buku 25 Jam?;OOD
+Siapa orang tercerdas di dunia?;OOD
+Siapa Nama Manajer EBI 2019/2020?;OOD
+Mengapa jumlah Core di sebuah procesor mempengaruhi kinerja laptop?;OOD
+Siapa penulis buku Amor Fati?;OOD
+Mengapa daun berwarna hijau ?;OOD
+Makanan ;OOD
+Harga buku kalkulus? ;OOD
+Saya hobi nonton;OOD
+Siapa nama hero di blackclover ? ;OOD
+Bagaimana cara mengekstraksi DBpedia?;OOD
+Berapa tinggi Monumen Nasional?;OOD
+Apa yang membuat wanita jatuh hati ke seorang pria?;OOD
+Bagaimana cara dapat nilai yang tinggi di setiap semester?;OOD
+Lebih susah belajar matematika atau bahasa inggris;OOD
+Bagaimana cara mendaftar atau pengajuan beasiswa di kampus UNSRI?;OOD
+Berapa jumlah tulang rusuk laki-laki?;OOD
+Bagaimana cara agar mendapatkan beasiswa full saat kuliah?;OOD
+Siapa raja pertama korea selatan?;OOD
+Kapan Islam pertama kali datang ke Indonesia?;OOD
+UKT tertinggi di UNSRI?;OOD
+Apa yang menyebabkan terjadinya kanker?;OOD
+Jam berapa kah admin berada dalam ruangan jurusan?;OOD
+Apa yang menjadi alasan/landasan anda dalam membuat chatbot;OOD
+Seberapa penting bisa berbahasa Inggris?;OOD
+Kapan Tere Liye menerbitkan buku pertama kali?;OOD
+Mengapa kita perlu minum ?;OOD
+Siapa penulis puisi Pada Suatu Hari Nanti?;OOD
