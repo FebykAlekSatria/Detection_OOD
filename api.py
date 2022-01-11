@@ -29,9 +29,6 @@ def stemmed_wrapper(term):
     return stemmer.stem(term)
 
 
-term_dict = {}
-
-
 app = Flask(__name__)
 tfidf = pickle.load(open("tfidf.pkl", 'rb'))
 with open("model", "rb") as r:
