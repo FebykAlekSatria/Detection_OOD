@@ -1,0 +1,55 @@
+from flask import Flask, render_template, request, jsonify
+from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
+import numpy as np
+import pickle
+import pandas as pd
+import re
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+df = pd.read_csv("Text_Preprocessing.csv")
+vectorizer_tfidf = TfidfVectorizer(max_features=500)
+X_tfidf = vectorizer_tfidf.fit_transform(df['Lowers'])
+
+
+clean_spcl = re.compile('[/(){}\[\]\|@,;]')
+clean_symbol = re.compile('[^0-9a-z]')
+
+
+def clean_punct(text):
+    text = clean_spcl.sub('', text)
+    text = clean_symbol.sub(' ', text)
+    return text
+
+
+factory = StemmerFactory()
+stemmer = factory.create_stemmer()
+
+
+def stemmed_wrapper(term):
+    return stemmer.stem(term)
+
+
+term_dict = {}
+
+
+app = Flask(__name__)
+tfidf = pickle.load(open("tfidf.pkl", 'rb'))
+with open("model", "rb") as r:
+    model = pickle.load(r)
+
+
+@app.route("/", methods=["GET", "POST"])
+def index():
+    if request.method == 'GET':
+        Input = request.form.get('text')
+        Input = Input.lower()
+        Input = clean_punct(Input)
+        Input = stemmed_wrapper(Input)
+        Input = vectorizer_tfidf.transform([Input])
+        prediction = model.predict(np.array(Input).tolist()).tolist()
+        return jsonify({'prediction': prediction})
+
+
+if __name__ == "__main__":
+    app.debug = True
+    app.run(host='0.0.0.0', port="5000")
