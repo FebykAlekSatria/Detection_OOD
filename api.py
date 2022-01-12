@@ -5,6 +5,7 @@ import pickle
 import pandas as pd
 import re
 from sklearn.feature_extraction.text import TfidfVectorizer
+from flask_cors import CORS
 
 df = pd.read_csv("Text_Preprocessing.csv")
 vectorizer_tfidf = TfidfVectorizer(max_features=500)
@@ -34,20 +35,25 @@ tfidf = pickle.load(open("tfidf.pkl", 'rb'))
 with open("model", "rb") as r:
     model = pickle.load(r)
 
+CORS(app)
+
 
 @app.route("/", methods=["GET", "POST"])
 def index():
-    if request.method == 'GET':
+    if request.method == 'POST':
         try:
-            Input = request.json.get('text')
-            Input = clean_punct(Input)
+            quest = request.json.get('text')
+            Input = clean_punct(quest)
             Input = Input.lower()
             Input = stemmed_wrapper(Input)
             Input = vectorizer_tfidf.transform([Input])
             prediction = model.predict(np.array(Input).tolist()).tolist()
-            return jsonify({'prediction': prediction})
+            return ({
+                'pertanyaan': quest,
+                'predict': prediction[0]
+            })
         except:
-            return jsonify({'prediction': 'Tidak ada inputan'})
+            return jsonify({'predict': 'Tidak ada inputan'})
 
 
 if __name__ == "__main__":
