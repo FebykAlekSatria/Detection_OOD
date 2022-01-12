@@ -38,13 +38,16 @@ with open("model", "rb") as r:
 @app.route("/", methods=["GET", "POST"])
 def index():
     if request.method == 'GET':
-        Input = request.form.get('text')
-        Input = Input.lower()
-        Input = clean_punct(Input)
-        Input = stemmed_wrapper(Input)
-        Input = vectorizer_tfidf.transform([Input])
-        prediction = model.predict(np.array(Input).tolist()).tolist()
-        return jsonify({'prediction': prediction})
+        try:
+            Input = request.json.get('text')
+            Input = clean_punct(Input)
+            Input = Input.lower()
+            Input = stemmed_wrapper(Input)
+            Input = vectorizer_tfidf.transform([Input])
+            prediction = model.predict(np.array(Input).tolist()).tolist()
+            return jsonify({'prediction': prediction})
+        except:
+            return jsonify({'prediction': 'Tidak ada inputan'})
 
 
 if __name__ == "__main__":
