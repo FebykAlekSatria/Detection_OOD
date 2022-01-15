@@ -31,7 +31,7 @@ def stemmed_wrapper(term):
 
 
 app = Flask(__name__)
-tfidf = pickle.load(open("tfidf.pkl", 'rb'))
+tfidf = pickle.load(open("tfidf", 'rb'))
 with open("model", "rb") as r:
     model = pickle.load(r)
 
