@@ -299,7 +299,9 @@ Tampilkan semester pendek pada semester 4;ID
 Tampilkan semester pendek pada semester 6;ID 
 Tampilkan semester pendek pada semester 8;ID 
 Tampilkan kartu rencana studi pada semester ini;ID 
-Tampilkan krs pada semester ini;ID 
+Tampilkan kartu hasil studi pada semester ini;ID 
+Tampilkan krs pada semester ini;ID
+Tampilkan khs pada semester ini;ID
 Tampilkan jumlah sks yang diambil pada semester ini;ID 
 Tampilkan banyak sks yang diambil pada semester ini;ID 
 Tampilkan batas sks maksimum yang boleh diambil pada semester ini;ID 
@@ -340,7 +342,9 @@ Tampilkan banyak maksimum yang boleh diambil pada semester pendek;ID
 Tampilkan jumlah sks yang diambil pada semster pendek;ID 
 Tampilkan banyak sks yang diambil pada semster pendek;ID 
 Tampilkan kartu rencana studi semester pendek;ID 
-Tampilkan krs semester pendek;ID 
+Tampilkan kartu hasil studi semester pendek;ID 
+Tampilkan krs semester pendek;ID
+Tampilkan khs semester pendek;ID
 Tampilkan nama dosen pembimbing akademik;ID 
 Tampilkan nama dosen PA;ID 
 Tampilkan semester saat ini;ID 
@@ -450,6 +454,7 @@ siapa mahasiswa yang uasnya bernilai 90;ID
  semester pendek pada semester 8;ID 
  kartu rencana studi pada semester ini;ID 
  krs pada semester ini;ID 
+ khs pada semester ini;ID 
  jumlah sks yang diambil pada semester ini;ID 
  banyak sks yang diambil pada semester ini;ID 
  batas sks maksimum yang boleh diambil pada semester ini;ID 
@@ -490,7 +495,9 @@ siapa mahasiswa yang uasnya bernilai 90;ID
  jumlah sks yang diambil pada semster pendek;ID 
  banyak sks yang diambil pada semster pendek;ID 
  kartu rencana studi semester pendek;ID 
+ kartu hasil studi semester pendek;ID 
  krs semester pendek;ID 
+ khs semester pendek;ID 
  nama dosen pembimbing akademik;ID 
  nama dosen PA;ID 
  semester saat ini;ID 
